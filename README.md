@@ -1,6 +1,6 @@
 # number_checker
 
-Sebuah aplikasi sederhana untuk melakukan pengecekan angka termasuk bilangan prima atau bukan.
+Aplikasi sederhana untuk melakukan pengecekan bilangan prima atau bukan.
 
 ## Screenshot 1
 
@@ -9,3 +9,11 @@ Sebuah aplikasi sederhana untuk melakukan pengecekan angka termasuk bilangan pri
 ## Screenshot 2
 
 ![](assets/github-demo/2.png)
+
+## Screenshot 3
+
+![](assets/github-demo/3.png)
+
+## Screenshot 4
+
+![](assets/github-demo/4.png)
