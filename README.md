@@ -1,16 +1,11 @@
 # number_checker
 
-A new Flutter project.
+Sebuah aplikasi sederhana untuk melakukan pengecekan angka termasuk bilangan prima atau bukan.
 
-## Getting Started
+## Screenshot 1
 
-This project is a starting point for a Flutter application.
+![](assets/github-demo/1.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot 2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](assets/github-demo/2.png)
